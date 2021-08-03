@@ -1,0 +1,13 @@
+#score_board{
+    float: left;
+    left: 0px;
+}
+
+h5{
+    font-size: 25px;
+    color: black;
+}
+body{
+    background-color: aquamarine;
+}
+
